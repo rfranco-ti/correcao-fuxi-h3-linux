@@ -45,7 +45,6 @@ Precisa de: `usbutils`, `alsa-utils`, `systemd`, `pipewire`/`wireplumber`.
 
 ## Ainda mudo?
 
-1. Ligue o dongle direto na USB traseira, fora de hub
-2. Confira o botão de mute do próprio dongle
-3. Reencaixe o P2 até o clique
-4. Rode `./fix-fuxi-h3.sh --check` e veja o que está diferente
+1. Ligue o dongle direto na USB traseira
+2. Confira o botão de mute do próprio headset
+3. Rode `./fix-fuxi-h3.sh --check` e veja o que está diferente
